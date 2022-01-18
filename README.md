@@ -1,12 +1,11 @@
-### Ayo
-My name is Amit
+### About Me
+My name is Amit.
+I'm a big fan of making the computer work for me.
 
-
-### Stats
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitHalpert&hide=java,html&theme=midnight-purple" />
+### GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitHalpert&layout=compact&theme=material-palenight&langs_count=8&hide=Shell,Vim%20script,Emacs%20Lisp,CMake,C,Makefile,Yacc,Lex" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmitHalpert&show_icons=true&line_height=27&count_private=true&theme=midnight-purple" alt="Michal's GitHub Stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=AmitHalpert&theme=material-palenight&count_private=true&show_icons=true" />
 </a>
