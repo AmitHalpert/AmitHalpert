@@ -2,7 +2,7 @@
 My name is Amit
 
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitHalpert&hide=java,html&theme=midnight-purple" />
