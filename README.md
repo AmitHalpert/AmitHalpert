@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ayo
+My name is Amit
+
 
 ## 📈 GitHub Stats
 
