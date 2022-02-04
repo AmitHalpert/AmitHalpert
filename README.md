@@ -4,9 +4,6 @@ I'm a big fan of making the computer work for me.
 
 ### GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=AmitHalpert&theme=material-palenight)
-</a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnotequalnp&layout=compact&theme=material-palenight&langs_count=8&hide=" >
 </a>
