@@ -6,5 +6,10 @@ I'm a big fan of making the computer work for me.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=AmitHalpert&theme=material-palenight)
 </a>
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitHalpert&exclude_repo=dotfiles&langs_count=8&layout=compact&theme=material-palenight)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnotequalnp&layout=compact&theme=material-palenight&langs_count=8&hide=" >
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=pnotequalnp&theme=material-palenight&count_private=true&show_icons=true" />
 </a>
