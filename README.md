@@ -1,6 +1,5 @@
 ### About Me
 My name is Amit.
-I'm a big fan of making the computer work for me.
 
 ### GitHub Stats
 
