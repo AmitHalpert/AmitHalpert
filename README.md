@@ -1,6 +1,5 @@
 ### About Me
-My name is Amit.
-<p>I'm a 1nd year Software Engineer student at "ORT Rehovot College".</p>
+My name is Amit. I'm a 1nd year Software Engineer student at ORT Rehovot College.
 
 ### GitHub Stats
 
