@@ -1,5 +1,5 @@
 ### About Me
-My name is Amit🔰
+My name is Amit 🔰
 
 ### GitHub Stats
 
