@@ -1,5 +1,4 @@
-### About Me
-<p>My name is Amit, Currently i'm Comp Sci student. <br>Interested in game development & game design.<br></p>
+
 
 ### GitHub Stats
 
